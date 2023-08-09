@@ -1,0 +1,22 @@
+{
+  "name": "webportfolio",
+  "version": "1.0.0",
+  "description": "Responisve portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankPak/WebPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrankPak/WebPortfolio/issues"
+  },
+  "homepage": "https://github.com/FrankPak/WebPortfolio#readme",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
