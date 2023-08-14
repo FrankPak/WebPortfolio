@@ -17,7 +17,6 @@
   "bugs": {
     "url": "https://github.com/FrankPak/WebPortfolio/issues"
   },
-  "homepage": "https://github.com/FrankPak/WebPortfolio#readme",
   "dependencies": {
     "gh-pages": "^6.0.0",
     "node-sass": "^9.0.0"
