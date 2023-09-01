@@ -115,6 +115,8 @@ main {
     gap: 0.7rem;
     grid-template-columns: repeat(3,1fr);
     img {
+        max-width: 339px;
+        max-height: 226px;
         width: 100%;
         border: 3px #fff solid;
 
